@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coder000
+- 👋 Hi, I’m KODAVATI LASKHMI MANIKANTA
 - 👀 I’m interested in Penetration Testing and Bug Bounty.
 - 🌱 I’m currently Persuing my Academics As a Cyber Security Student.
 - 💞️ I’m looking to collaborate on Cyber Foundations and 
